@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+}
+.content {
+  display: flex;
+  height: 80vh;
+  background-color: lightgray;
+}
